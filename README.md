@@ -5,4 +5,4 @@ I will also populate the database with some information in order to demonstrate 
  
 ##### The populated data is not the original and has been modified for privacy purposes; not the numerical data nor the names/labels are the ones used in the original project.
 
-<img src="Database%20Schema.JPG" width="100">
+<img src="Database%20Schema.JPG" width="1000">
