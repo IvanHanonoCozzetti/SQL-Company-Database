@@ -78,7 +78,7 @@ SET branch_id = 2
 WHERE emp_id = 102;
 
 INSERT INTO employee VALUES(103, 'Cristina', 'Martin', '1980-09-13', 'F', 59000, 102, 2);
-INSERT INTO employee VALUES(103, 'Marta', 'Diaz', '1990-02-010', 'F', 50000, 102, 2);
+INSERT INTO employee VALUES(103, 'Marta', 'Diaz', '1990-02-10', 'F', 50000, 102, 2);
 INSERT INTO employee VALUES(103, 'Carlos', 'Ramirez', '1982-01-21', 'M', 60000, 102, 2);
 
 
@@ -128,4 +128,4 @@ INSERT INTO works_with VALUES(108, 403, 18000);
 INSERT INTO works_with VALUES(105, 404, 101000);
 INSERT INTO works_with VALUES(107, 405, 120000);
 INSERT INTO works_with VALUES(102, 406, 16000);
-INSERT INTO works_with VALUES(105, 401, 19000);
+INSERT INTO works_with VALUES(105, 406, 19000);
