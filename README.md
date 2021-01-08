@@ -6,4 +6,4 @@ I will also populate the database with some information in order to demonstrate 
 #### This script is a part of a bigger project for a Spanish company.
 #### The populated data is not the original and has been modified for privacy purposes; not the numerical data nor the names/labels are the ones used in the original project.
 
-<img src="Database%20Schema.JPG" width="1080">
+<img src="DB.png">
