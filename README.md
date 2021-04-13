@@ -5,4 +5,4 @@ I will also populate the database with some information in order to demonstrate 
 
 #### This script is a part of a bigger project for a Spanish company. <br /> I populate the database with some information in order to demonstrate furthermore the correlation within the database. The populated data is not the original and has been modified for privacy purposes; not the numerical data nor the names/labels are the ones used in the original project.
 
-<img src="DB.png">
+<img src="DB-schema.png">
